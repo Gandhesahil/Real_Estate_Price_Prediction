@@ -1,0 +1,11 @@
+{
+  "name": "real-estate-price-prediction-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install": "echo \"No Node dependencies\""
+  },
+  "engines": {
+    "node": "18.x" 
+  }
+}
